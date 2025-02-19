@@ -14,6 +14,6 @@ namespace Session_2.Entities
         public double Grade { get; set; }
 
         //public List<Student> Students  { get; set; }
-        //public List<Course> Courses { get; set; }   
+        //public List<Course> Courses { get; set; }
     }
 }
